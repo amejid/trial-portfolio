@@ -1,0 +1,71 @@
+.nav-top {
+  background-color: rgb(190, 49, 68);
+}
+.first-sec {
+  background-color: rgb(48, 56, 65);
+  color: white;
+  height: 500px;
+}
+.first-sec h1 {
+  text-align: center;
+  padding-top: 200px;
+  font-weight: 700;
+}
+.first-sec h4 {
+  text-align: center;
+  color: rgb(190, 49, 68);
+}
+.second-sec {
+  padding: 100px;
+  background-color: rgb(69, 86, 125);
+}
+.second-sec h1 {
+  text-align: center;
+  text-decoration: underline;
+  color: white;
+  margin-bottom: 50px;
+}
+.nav-elements {
+  margin-left: 80%;
+}
+.first-row,
+.second-row {
+  margin-bottom: 50px;
+}
+.card-body {
+  background-color: rgb(48, 56, 65);
+  color: white;
+}
+.btn {
+  width: inherit;
+  color: white;
+}
+a:hover {
+  color: white;
+}
+.btn-div {
+  margin-left: 50%;
+}
+.btn-div button {
+  width: 100px;
+  background-color: rgb(48, 56, 65);
+  height: 50px;
+  color: white;
+}
+.third-sec {
+  padding-top: 100px;
+  height: 400px;
+  background-color: rgb(48, 56, 65);
+  color: white;
+  text-align: center;
+}
+.social-links {
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+  display: flex;
+  /*justify-content: center;*/
+}
+.social-links a {
+  flex: 1;
+}
